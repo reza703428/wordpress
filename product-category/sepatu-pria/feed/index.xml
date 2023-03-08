@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>sepatu pria</title>
+	<atom:link href="https://reza703428.github.io/wordpress/product-category/sepatu-pria/feed/" rel="self" type="application/rss+xml" />
+	<link>https://reza703428.github.io/wordpress</link>
+	<description></description>
+	<lastBuildDate>Tue, 07 Mar 2023 10:15:25 +0000</lastBuildDate>
+	<language>id</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>sepatu pria</title>
+		<link>https://reza703428.github.io/wordpress/product/sepatu-pria/</link>
+					<comments>https://reza703428.github.io/wordpress/product/sepatu-pria/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 07 Mar 2023 10:15:24 +0000</pubDate>
+				<guid isPermaLink="false">https://reza703428.github.io/wordpress/?post_type=product#038;p=189</guid>
+
+					<description><![CDATA[Size : 36 - 22,5cm
+Size : 37 - 23,5cm
+Size : 38 - 24cm
+Size : 39 - 25cm
+Size : 40 - 25,5cm 
+Size : 41 - 26,5cm
+Size : 42 - 27cm
+Size : 43 - 28cm
+Size : 44 - 28,5cm]]></description>
+										<content:encoded><![CDATA[<p>READY STOCK, SILAHKAN LANGSUNG MELAKUKAN PEMESANAN<br />
+Tersedia Ukuran : 36 / 37 / 38 / 39 / 40 / 41 / 42 / 43 / 44</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://reza703428.github.io/wordpress/product/sepatu-pria/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
